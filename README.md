@@ -28,6 +28,7 @@ python manage.py runserver
 1. Присвоение игроку приза за прохождение уровня.
    
 ```http://127.0.0.1:8000/player/assign-prize/<int:player_id>/<int:level_id>/```
+
 3. Выгрузка в csv данных
 
 ```http://127.0.0.1:8000/player/export/player-levels/```
