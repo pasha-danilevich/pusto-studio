@@ -1,0 +1,6 @@
+env
+__pycache__
+migrations
+.vscode
+.sqlite3
+task_2/src/db.sqlite3
